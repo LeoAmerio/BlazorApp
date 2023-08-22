@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "yunVqEincM/u0d6SFo8fuikDuTvP9SSdEy9LvhrYoSMYwFJM/IO9V9MTJYtVRPh4DhPbghehldd0ZuNvmrMy7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lamerio\\source\\repos\\BlazorPokedex\\BlazorPokedex.Services\\BlazorPokedex.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lamerio\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\lamerio\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\lamerio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\lamerio\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
